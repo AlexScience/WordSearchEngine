@@ -1,25 +1,25 @@
 <p align="center"><h1>WordSearchEngine</h1></p>
  <p align="center">
   <a>
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/AlexScience/Unity-PercentDrawer?logo=Mapbox&color=orange">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/AlexScience/WordSearchEngine?logo=Mapbox&color=orange">
   </a>
   <a>
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/AlexScience/Unity-PercentDrawer?logo=VirtualBox">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/AlexScience/WordSearchEngine?logo=VirtualBox">
   </a>
   <a>
-    <img alt="Downloads" src="https://img.shields.io/github/downloads/AlexScience/Unity-PercentDrawer/total?color=brightgreen">
+    <img alt="Downloads" src="https://img.shields.io/github/downloads/AlexScience/WordSearchEngine/total?color=brightgreen">
   </a>
   <a>
-    <img alt="Last Release" src="https://img.shields.io/github/v/release/AlexScience/Unity-PercentDrawer?include_prereleases&logo=Dropbox&color=yellow">
+    <img alt="Last Release" src="https://img.shields.io/github/v/release/AlexScience/WordSearchEngine?include_prereleases&logo=Dropbox&color=yellow">
   </a>
   <a>
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/AlexScience/Unity-PercentDrawer?branch=main&label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/AlexScience/WordSearchEngine?branch=main&label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat">
   </a>
   <a>
     <img alt="GitHub user stars" src="https://img.shields.io/github/stars/AlexScience?affiliations=OWNER&branch=main&label=User%20Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat">
   </a>
   <a>
-    <img alt="" src="https://img.shields.io/github/watchers/AlexScience/Unity-PercentDrawer?style=flat">
+    <img alt="" src="https://img.shields.io/github/watchers/AlexScience/WordSearchEngine?style=flat">
   </a>
 </p>
 
