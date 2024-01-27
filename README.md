@@ -1,4 +1,31 @@
-# WordSearchEngine
+<p align="center"><h1>WordSearchEngine</h1></p>
+ <p align="center">
+  <a>
+  <img alt="License" src="https://img.shields.io/github/license/AlexScience/Unity-PercentDrawer?logo=github">
+  </a>
+  <a>
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/AlexScience/Unity-PercentDrawer?logo=Mapbox&color=orange">
+  </a>
+  <a>
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/AlexScience/Unity-PercentDrawer?logo=VirtualBox">
+  </a>
+  <a>
+    <img alt="Downloads" src="https://img.shields.io/github/downloads/AlexScience/Unity-PercentDrawer/total?color=brightgreen">
+  </a>
+  <a>
+    <img alt="Last Release" src="https://img.shields.io/github/v/release/AlexScience/Unity-PercentDrawer?include_prereleases&logo=Dropbox&color=yellow">
+  </a>
+  <a>
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/AlexScience/Unity-PercentDrawer?branch=main&label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat">
+  </a>
+  <a>
+    <img alt="GitHub user stars" src="https://img.shields.io/github/stars/AlexScience?affiliations=OWNER&branch=main&label=User%20Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat">
+  </a>
+  <a>
+    <img alt="" src="https://img.shields.io/github/watchers/AlexScience/Unity-PercentDrawer?style=flat">
+  </a>
+</p>
+
 
 ## Описание
 WordSearchEngine - это консольное приложение на C#, предназначенное для поиска слов в текстовых файлах. Программа позволяет пользователю указать путь к текстовому файлу и искомое слово, а затем выводит строки, в которых это слово встречается, вместе с номерами строк. Пользователь также может выбрать, искать ли все вхождения слова или только первое.
